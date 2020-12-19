@@ -30,18 +30,18 @@ Requirement's :
 
 <br>
 
-```\vocabularyWebscrapping>python scrapper.py```
+```\Webscraping>python scrapper.py```
 
 **```Make sure that the path(location) must have two backslashes(\\) after every folder (e.g: D:\\vocabulary.docx). Else file will be saved at default path i.e C:\vocabulary.docx```**
 
 ```Location of data file :```
 
-```D:\\vocabularyWebscrapping\\sample\\test.txt```
+```D:\\Webscraping\\sample\\test.txt```
 
 ```Location to store the docx file (editable) :```
 
-```D:\\vocabularyWebscrapping\\sample\\words.docx```
+```D:\\Webscraping\\sample\\words.docx```
 
 ```Your desired file will be saved at : ```
 
-```D:\\vocabularyWebscrapping\\sample\\words.docx```
+```D:\\Webscrpping\\sample\\words.docx```

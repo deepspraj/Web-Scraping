@@ -12,11 +12,11 @@ Requirement's :
 
 - For any doubt's please do check the sample folder before proceeding.
 
-**Web Scrapping is neither legal nor illegal.**
+**Web Scraping is neither legal nor illegal.**
 
-**Using Web Scrapping for academic purpose doesn't commits towards criminal offensiveness.**
+**Using Web Scraping for academic purpose doesn't commits towards criminal offensiveness.**
 
-**Some Websites thinks Web Scrapping on their website is illegal while some allows it.**
+**Some Websites thinks Web Scraping on their website is illegal while some allows it.**
 
 **We use lexico.com (powered by Oxford University) as the website for web scraping. The Results matches with the Google Results with efficiency of 100%.**
 
@@ -30,7 +30,7 @@ Requirement's :
 
 <br>
 
-```\Webscraping>python scrapper.py```
+```\Webscraping>python scraper.py```
 
 **```Make sure that the path(location) must have two backslashes(\\) after every folder (e.g: D:\\vocabulary.docx). Else file will be saved at default path i.e C:\vocabulary.docx```**
 
